@@ -6,7 +6,7 @@
 ### Setup API token from Digital Token
 Add environment variable DO_TOKEN=API_TOKEN
 ### Install the package
-`pip install editable .`
+`pip install --editable .`
 
 ## Usage Directions
 ### Detach Droplet from load balancer
